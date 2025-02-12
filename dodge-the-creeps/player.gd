@@ -51,3 +51,7 @@ func start(pos):
 
 func my_func():
 	pass
+
+
+func my_func_again():
+	pass
