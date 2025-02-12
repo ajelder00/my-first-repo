@@ -50,4 +50,8 @@ func start(pos):
 	$CollisionShape2D.disabled = false
 
 func my_func():
+	pass
+
+
+func my_func_again():
 	pass the mashed potatoes
