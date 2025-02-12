@@ -50,4 +50,4 @@ func start(pos):
 	$CollisionShape2D.disabled = false
 
 func my_func():
-	pass
+	pass the french fries por favor mi amigo
